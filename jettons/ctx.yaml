@@ -1,0 +1,12 @@
+name: Coyote Token Exchange
+description: The worlds first AI-powered cryptocurrency exchange.
+image: "https://github.com/kir32232/coytx/blob/main/256.png?raw=true"  
+address: "EQCNWjQLT-qJ8Kn-YA84v3XUm_ogUAoiFX_BId0bG2PlJ52g"
+symbol: CTX
+max_supply: 10000000
+websites:
+  - "https://coytx.com"
+social:
+  - "https://t.me/coytx"
+  - "https://x.com/coytxcom"
+  - "https://t.me/coytxchat"
